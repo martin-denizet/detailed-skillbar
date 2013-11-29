@@ -23,8 +23,8 @@ For someone who wants to know more about that particular skill.
 * `color`: The color of the skillbar. Default: `'#6adcfa'`
 * `class`: CSS class. Default: `''`
 * `animate`: When the skillbar animation should be played?. Default: `'inview'`
-** `'inview'`: When the skillbar is in view from the user
-** `'documentready'`: When the page is loaded
+`'inview'`: When the skillbar is in view from the user
+`'documentready'`: When the page is loaded
 * `show_percent`: Should the percentage be displayed?. Default: `'true'`
 
 ## Demo
