@@ -5,7 +5,7 @@ Plugin URI: http://martin-denizet.com
 Description: An animated skillbar
 Author: Martin DENIZET
 Author URI: http://martin-denizet.com
-Version: 1.0
+Version: 1.1
 License: GNU General Public License version 2.0
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Based on Symple Shortcodes Plugin from AJ Clarke : http://sympleplorer.com

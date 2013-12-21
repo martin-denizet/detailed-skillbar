@@ -2,8 +2,8 @@
 
 /**
  * This file has all the main shortcode functions
- * @package Detail Skillbar Plugin
- * @since 1.0
+ * @package Detailed Skillbar Plugin
+ * @since 1.1
  * @author Martin DENIZET : http://martin-denizet.com
  * @copyright Copyright (c) 2012, AJ Clarke
  * @link http://martin-denizet.com
